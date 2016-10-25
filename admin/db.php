@@ -1,8 +1,8 @@
 <?php
-	define("dbhost", "localhost");
-	define("dbuser", "root");
-	define("dbpass", "");
-	define("dbname", "shop");
+	define("dbhost", "your_host_name");
+	define("dbuser", "your_user_name");
+	define("dbpass", "your_password");
+	define("dbname", "your_database_name");
 
 	$dbc = mysqli_connect(dbhost,dbuser,dbpass,dbname);
 
