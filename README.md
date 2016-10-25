@@ -1,10 +1,12 @@
 # kikeasy
 Kikeasy - Rental And Billing Inventory Management System
 
-What is it
+#What is it
 Simple  Rental And Billing Management System ( PHP , MySQL ).
 
-Features
+![untitled-4](https://cloud.githubusercontent.com/assets/4506338/19673475/c2796c6e-9a9d-11e6-97b0-5dc483db9786.png)
+
+##Features
 
 Simple User Interface.
 Supplier Management.
@@ -22,6 +24,6 @@ Advance Admin
 Username: admin1
 Password: admin1
 
-Supporting Kikeasy
+#Supporting Kikeasy
 
 kikeasy is an open source project.  And we need your help to make Piwik better… 
