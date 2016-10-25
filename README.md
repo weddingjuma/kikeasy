@@ -8,16 +8,16 @@ Simple  Rental And Billing Management System ( PHP , MySQL ).
 
 ##Features
 
-Simple User Interface.
-Supplier Management.
-Sales Management.
-Sales Return Management.
-Custom Products - Adding custom products has nerver been easier.
-Discounts.
-Reports ( Sales Reports ).
-Admin Panel.
+#####Simple User Interface.
+#####Supplier Management.
+#####Sales Management.
+#####Sales Return Management.
+#####Custom Products - Adding custom products has nerver been easier.
+#####Discounts.
+#####Reports ( Sales Reports ).
+#####Admin Panel.
 
-Admin 
+####Admin 
 Username: admin
 Password: admin
 Advance Admin
